@@ -163,6 +163,7 @@
 
 .lots_heading {
   font-family: "Raleway";
+  text-transform: uppercase;
   position: relative;
   font-size: 40px;
   font-weight: 700;
@@ -172,7 +173,6 @@
 
 .card {
   display: block;
-
   height: 563px;
   justify-content: center;
 }
@@ -208,15 +208,6 @@
 
 .card_link {
   text-decoration: none;
-}
-
-.card_text_type_film {
-  position: relative;
-  top: 260px;
-  height: 144px;
-
-  font-weight: 400;
-  font-size: 20px;
 }
 
 .card_type_film {
@@ -338,6 +329,7 @@
 }
 
 .footer_address {
+  font-style: italic;
   width: 240.52px;
   height: 24px;
   font-weight: 400;
