@@ -1,5 +1,3 @@
-/*Доброго времени суток. Работа завершена...? Все отступы были сделаны исключительно на глаз ибо пиксель пёрфект помахав ручкой и показав мне средний палец ушёл в закат,одним словом отказался со мной сотрудничать (прошу принять это к сведению) Пака кидаю так, проверьте плиз может ещё что-то не есть гуд */
-
 .content {
   display: flex;
   flex-wrap: wrap;
@@ -56,6 +54,7 @@
 }
 
 .address {
+  text-underline-offset: 4px;
   padding-right: 26.52px;
   font-style: normal;
   font-size: 18px;
@@ -134,7 +133,7 @@
   text-transform: uppercase;
   text-wrap: nowrap;
   font-size: 22px;
-  color: #fff;
+  color: #d4d4d4;
   line-height: 28px;
   word-spacing: 20px;
 }
@@ -142,7 +141,7 @@
 .bet-button {
   text-transform: uppercase;
   background-color: transparent;
-  color: #fff;
+  color: #dddcdc;
   font-size: 22px;
   width: 256px;
   height: 51px;
@@ -201,6 +200,7 @@
 }
 
 .card__text {
+  color: #d4d4d4;
   font-size: 20px;
   position: relative;
   line-height: 24px;
@@ -329,7 +329,8 @@
 }
 
 .footer_address {
-  font-style: italic;
+  text-underline-offset: 4px;
+  font-style: normal;
   width: 240.52px;
   height: 24px;
   font-weight: 400;
@@ -348,6 +349,7 @@
 }
 
 .footer_menu-link {
+  text-underline-offset: 4px;
   text-decoration: underline;
 }
 
