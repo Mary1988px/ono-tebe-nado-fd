@@ -1,1 +1,1 @@
-https://github.com/Mary1988px/first-project
+https://github.com/Mary1988px/ono-tebe-nado-fd
