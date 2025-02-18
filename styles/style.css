@@ -44,7 +44,7 @@
 
 .logo-black {
   border: 6px;
-  width: 137px;
+  width: 136px;
 }
 
 .address-links_1 {
@@ -279,43 +279,17 @@
   text-underline-position: under;
   font-style: normal;
 }
-/*
-.footer_link {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-/*
-.footer_menu {
-  justify-content: center;
-}*/
 
 .footer_menu-list {
   text-align: center;
   font-size: 18px;
 }
-/*
-.footer_menu-link {
-  text-underline-position: under;
-  text-decoration: underline;
-}
 
-.footer_menu-link_active {
-  text-decoration: none;
-}
-*/
 .footer_social-list {
   display: flex;
   gap: 48px;
 }
 
-/*
-.footer_social-list-item {
-  width: 240px;
-  justify-content: space-between;
-  display: inline-flex;
-}
-*/
 .footer_social-icon {
   width: 48px;
   height: 48px;
