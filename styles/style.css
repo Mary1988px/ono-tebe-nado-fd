@@ -25,10 +25,14 @@
 }
 
 .header_logo {
-  width: 148px;
-  padding-top: 5%;
+  padding-top: 7px;
 }
 
+.logo-black {
+  border: 6px;
+  width: 137px;
+  height: 115px;
+}
 /*.header_menu-link_no-bullet {
   list-style-type: none;
 }
