@@ -223,7 +223,7 @@
 }
 
 .about {
-  margin: 115px 24px ;
+  margin: 115px 24px;
   display: flex;
   width: 1052px;
   gap: 72px;
@@ -271,8 +271,6 @@
 
 .word-spacing_2 {
   word-spacing: normal;
-}
-.letter-spacing {
 }
 
 .footer {
