@@ -141,11 +141,12 @@
 }
 
 .lots_heading {
+  padding-top: 20%;
+  padding-left: 40px;
   text-transform: uppercase;
   font-size: 40px;
   font-weight: 700;
   line-height: 46.96px;
-  left: 40px;
 }
 
 .card {
@@ -205,17 +206,14 @@
 }
 
 .lots_look-more-link {
-  top: 35px;
   margin-left: 40px;
-  font-family: Raleway;
   font-size: 20px;
   text-underline-position: under;
 }
 
 .about {
+  padding-top: 10%;
   display: flex;
-  left: 24px;
-  bottom: 192px;
   width: 1052px;
   gap: 72px;
 }
@@ -257,6 +255,7 @@
 }
 
 .footer {
+  padding-top: 10%;
   display: flex;
   margin: 92px 24px;
   justify-content: space-between;
