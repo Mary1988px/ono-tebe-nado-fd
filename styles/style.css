@@ -6,7 +6,7 @@
 }
 
 .header {
-  padding: 20px 25px 0px;
+  padding: 0px 26px 0px;
   font-size: 18px;
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
@@ -17,8 +17,8 @@
 .header_menu-list {
   display: flex;
   text-underline-position: under;
-  padding-top: 14%;
-  gap: 33.5px;
+  padding-top: 44px;
+  gap: 34.5px;
 }
 
 .header_menu-item {
@@ -31,32 +31,28 @@
 
 .menu_links {
   text-underline-position: under;
-  text-decoration: underline;
 }
 
 .menu_link-active {
   text-decoration: none;
 }
 
-.header_logo {
-  padding-top: 15px;
-}
 
 .logo-black {
   border: 6px;
   width: 136px;
 }
 
-.address-links_1 {
+.address-links {
   max-width: 240px;
 }
 
-.address_link_1 {
-  padding-top: 22px;
+.address_link {
   justify-self: end;
+  padding-top: 5px;
 }
 
-.address_link_2 {
+.address__link {
   font-size: 18px;
 }
 
@@ -127,7 +123,7 @@
 .cover_description-text {
   padding-top: 11px;
   text-transform: uppercase;
-  text-wrap: nowrap;
+  text-wrap: wrap;
   font-size: 22px;
   color: #d4d4d4;
   line-height: 28px;
@@ -259,25 +255,14 @@
   font-size: 20px;
 }
 
-.word-spacing_1 {
+.about_paragraph {
   word-spacing: 1px;
-}
-
-.word-spacing_2 {
-  word-spacing: normal;
 }
 
 .footer {
   display: flex;
   margin: 64px 50px;
   justify-content: space-between;
-}
-
-.footer_address-links {
-  max-width: 24%;
-  font-size: 18px;
-  text-underline-position: under;
-  font-style: normal;
 }
 
 .footer_menu-list {
