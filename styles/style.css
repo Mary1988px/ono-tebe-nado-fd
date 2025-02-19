@@ -18,7 +18,7 @@
   display: flex;
   text-underline-position: under;
   padding-top: 44px;
-  gap: 34.5px;
+  gap: 33.5px;
 }
 
 .header_menu-item {
@@ -36,7 +36,6 @@
 .menu_link-active {
   text-decoration: none;
 }
-
 
 .logo-black {
   border: 6px;
